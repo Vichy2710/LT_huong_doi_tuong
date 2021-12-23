@@ -1,0 +1,17 @@
+
+Day lon: 7
+Day nho: 2
+Chieu cao: 4
+
+Day lon: 1
+Day nho: 2
+Chieu cao: 12
+
+DienTich: 
+18
+18
+
+Tong 2 hinh thang: 
+Day lon: 8
+Day nho: 4
+Chieu cao: 16
